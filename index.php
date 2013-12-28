@@ -15,8 +15,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
  
-    		
-    </head>
+ </head>
     
     <body>
 <!--header-->        
